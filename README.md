@@ -15,3 +15,6 @@ Go to savirsingh.github.io/Viewer3D to view the demo.
 ## Still working on it
 1. Edit files
 2. Save with new file extension
+
+## Feel free to fork or create issue
+I would love your feedback, help, and suggestions. 
