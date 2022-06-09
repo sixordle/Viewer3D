@@ -1,6 +1,9 @@
 # Viewer3D
 Website for viewing 3D .glb files.
 
+## Demo
+Go to savirsingh.github.io/Viewer3D to view the demo.
+
 ## Current version
 1. Import files
 2. Explode faces
